@@ -131,9 +131,9 @@ function Home() {
                 <Phone className="text-[#B8892D]" />
                 <div>
                   <p className="font-semibold text-[#B8892D]">Phone</p>
-                  <a href="tel:+919441617864">+91 94416 17864</a>
+                  <a href="tel:+919542541195">+91 95425 41195</a>
                   <br />
-                  <a href="tel:+918688922547">+91 86889 22547</a>
+                  <a href="tel:+919441617864">+91 94416 17864</a>
                 </div>
               </div>
 
